@@ -1,5 +1,5 @@
 # Diving Deep
-Discover the ocean and face the monsters within. Diving deep is a game where you pass levels to get your treasure 
+Discover the ocean and face the monsters within. Diving deep is a game where you pass levels and unconver mysteries to get the ultimate treasure.
 
 
 
