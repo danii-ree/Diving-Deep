@@ -10,4 +10,4 @@ https://github.com/danii-ree/Diving-Deep/assets/142275709/6636393c-50f3-4bad-818
 
 
 
-**Note: The game is far from finished. The release date for this project is still undecided**
+**Note: The game is far from finished. The release date for this project is undecided.**
